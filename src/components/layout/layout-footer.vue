@@ -15,7 +15,7 @@
                 <!-- <div><a target="_blank" class="out-link" href="#">☞后台管理</a></div> -->
             </div>
         </div>
-        <div class="copyright">Copyright © 2020 by <a target="_blank" class="out-link" href="https://daalin.top/">daalin.top</a> . All rights reserved. | <a target="_blank" class="out-link" href="http://www.beian.miit.gov.cn">粤ICP备17015355号-1</a></div>
+        <div class="copyright">Copyright © 2021 by <a target="_blank" class="out-link" href="https://daalin.top/">daalin.top</a> . All rights reserved. | <a target="_blank" class="out-link" href="http://www.beian.miit.gov.cn">粤ICP备17015355号-1</a></div>
     </div>
 </template>
 

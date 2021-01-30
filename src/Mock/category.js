@@ -10,23 +10,13 @@ export default [
                     {
                         id: 1,
                         title: 'ShenZhen',
-                        href: '/category/ShenZhen'
+                        href: '/article/ShenZhen'
                     },
                     {
                         id: 2,
-                        title: 'h5',
-                        href: '/category/h5',
+                        title: 'H5',
+                        href: '/article/H5',
                     },
-                    // {
-                    //     id: 3,
-                    //     title: 'MySql',
-                    //     href: '/category/MySql'
-                    // },
-                    // {
-                    //     id: 4,
-                    //     title: '随笔',
-                    //     href: '/category/live'
-                    // }
                 ]
             }
         }

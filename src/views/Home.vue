@@ -10,7 +10,6 @@
                 </div>
                 <quote v-else>{{notice}}</quote>
             </div>
-
             <!--焦点图-->
             <div class="top-feature" v-if="!hideSlogan">
                 <section-title>
@@ -22,17 +21,16 @@
                     </div>
                 </div>
             </div>
-            <!--文章列表-->
-            <main class="site-main" :class="{'search':hideSlogan}">
-                <section-title v-if="!hideSlogan">推荐</section-title>
-                <template v-for="item in postList">
-                    <post :post="item" :key="item.id"></post>
-                </template>
-            </main>
-
-            <!--加载更多-->
-            <div class="more" v-show="hasNextPage">
-                <div class="more-btn" @click="loadMore">More</div>
+            <!-- 移动端显示焦点图 -->
+            <div class="phone-top-feature" v-if="!hideSlogan">
+                <section-title>
+                    <div style="display: flex;align-items: flex-end;">聚焦<small-ico></small-ico></div>
+                </section-title>
+                <div class="feature-content">
+                    <div class="feature-item" v-for="item in features" :key="item.title">
+                        <Feature :data="item"></Feature>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -42,10 +40,9 @@
     import Banner from '@/components/banner'
     import Feature from '@/components/feature'
     import sectionTitle from '@/components/section-title'
-    import Post from '@/components/post'
     import SmallIco from '@/components/small-ico'
     import Quote from '@/components/quote'
-    import {fetchFocus, fetchList} from '../api'
+    import {fetchFocus} from '../api'
 
     export default {
         name: 'Home',
@@ -53,7 +50,6 @@
         data() {
             return {
                 features: [],
-                postList: [],
                 currPage: 1,
                 hasNextPage: false
             }
@@ -62,7 +58,6 @@
             Banner,
             Feature,
             sectionTitle,
-            Post,
             SmallIco,
             Quote
         },
@@ -81,33 +76,17 @@
             }
         },
         methods: {
+            // 聚焦
             fetchFocus() {
                 fetchFocus().then(res => {
                     this.features = res.data || []
                 }).catch(err => {
                     console.log(err)
                 })
-            },
-            fetchList() {
-                fetchList().then(res => {
-                    this.postList = res.data.items || []
-                    this.currPage = res.data.page
-                    this.hasNextPage = res.data.hasNextPage
-                }).catch(err => {
-                    console.log(err)
-                })
-            },
-            loadMore() {
-                fetchList({page:this.currPage+1}).then(res => {
-                    this.postList = this.postList.concat(res.data.items || [])
-                    this.currPage = res.data.page
-                    this.hasNextPage = res.data.hasNextPage
-                })
             }
         },
         mounted() {
             this.fetchFocus();
-            this.fetchList();
         }
     }
 </script>
@@ -132,7 +111,7 @@
             color: #828282;
         }
     }
-
+    // 聚焦pc端显示
     .top-feature {
         width: 100%;
         height: auto;
@@ -148,6 +127,10 @@
                 width: 32.9%;
             }
         }
+    }
+    // 聚焦移动端显示
+    .phone-top-feature {
+        display: none;
     }
 
     .site-main {
@@ -182,7 +165,9 @@
         .top-feature {
             display: none;
         }
-
+        .phone-top-feature {
+            display: block;
+        }
         .site-main {
             padding-top: 40px;
         }

@@ -1,8 +1,8 @@
 <template>
     <transition name="slide-fade">
         <div class="back-top" v-show="show" @click.stop="getTop">
-            <img class="img1" src="@/assets/_tortoise.svg" alt="">
-            <img class="img2" src="@/assets/tortoise.svg" alt="">
+            <img class="img1" src="@/assets/images/fanhuidingbu.png" alt="">
+            <img class="img2" src="@/assets/images/totop.png" alt="">
             <p>Top</p>
         </div>
     </transition>
@@ -58,8 +58,12 @@
     text-align: center;
     z-index: 99;
     img{
-        width: 60px;
-        height: 60px;
+        width: 50px;
+        height: 50px;
+    }
+    .img1 {
+        width: 30px;
+        height: 30px;
     }
     .img2{
         display: none;
