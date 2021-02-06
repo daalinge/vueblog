@@ -1,7 +1,7 @@
 <template>
     <transition name="slide-fade">
         <div class="back-top" v-show="show" @click.stop="getTop">
-            <img class="img1" src="@/assets/images/fanhuidingbu.png" alt="">
+            <!-- <img class="img1" src="@/assets/images/fanhuidingbu.png" alt=""> -->
             <img class="img2" src="@/assets/images/totop.png" alt="">
             <p>Top</p>
         </div>
@@ -50,7 +50,7 @@
     background-color: #FFFFFF;
     position: fixed;
     right: 3rem;
-    bottom: 8rem;
+    bottom: 10rem;
     border-radius: 25px;
     cursor: pointer;
     opacity: .3;
@@ -65,19 +65,21 @@
         width: 30px;
         height: 30px;
     }
-    .img2{
-        display: none;
-    }
-    &:hover img.img1{
-        display: none;
-    }
-    &:hover img.img2{
-        display: unset;
-    }
+    // .img2{
+    //     display: none;
+    // }
+    // &:hover img.img1{
+    //     display: none;
+    // }
+    // &:hover img.img2{
+    //     display: unset;
+    // }
 }
 @media (max-width: 600px){
     .back-top{
-        display: none;
+        position: fixed;
+        right: 3rem;
+        bottom: 10rem;
     }
 }
 </style>

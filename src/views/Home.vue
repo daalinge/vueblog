@@ -21,17 +21,6 @@
                     </div>
                 </div>
             </div>
-            <!-- 移动端显示焦点图 -->
-            <div class="phone-top-feature" v-if="!hideSlogan">
-                <section-title>
-                    <div style="display: flex;align-items: flex-end;">聚焦<small-ico></small-ico></div>
-                </section-title>
-                <div class="feature-content">
-                    <div class="feature-item" v-for="item in features" :key="item.title">
-                        <Feature :data="item"></Feature>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </template>
@@ -111,7 +100,7 @@
             color: #828282;
         }
     }
-    // 聚焦pc端显示
+    
     .top-feature {
         width: 100%;
         height: auto;
@@ -127,10 +116,6 @@
                 width: 32.9%;
             }
         }
-    }
-    // 聚焦移动端显示
-    .phone-top-feature {
-        display: none;
     }
 
     .site-main {
@@ -163,10 +148,9 @@
     /******/
     @media (max-width: 800px) {
         .top-feature {
-            display: none;
-        }
-        .phone-top-feature {
-            display: block;
+            .feature-content {
+                display: block;
+            }
         }
         .site-main {
             padding-top: 40px;
