@@ -8,7 +8,7 @@ export default [
             return {
                 code: 20000,
                 data: {
-                    avatar: 'https://shitu-query-gz.gz.bcebos.com/2021-02-27/19/02e771eb87872694?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2021-02-27T11%3A00%3A01Z%2F300%2Fhost%2F5b2d8a09210ccd457110edf76c22ce285cb4557490cb02302c147b9ed3d55741',
+                    avatar: 'http://m.qpic.cn/psc?/V521fEqa2RC8TK19KyzN22fD7O1CJSWM/TmEUgtj9EK6.7V8ajmQrEAJvSr*BG9eomch1bKPdklSGdJ3kPEr0C37aDwZAXDcX.zJIjWnGO*VND2JWaj8ot*lCZ*A1wwntpLGMOb3Trmw!/b&bo=PAM8AzwDPAMDaUw!&rf=viewer_4',
                     slogan: 'The way up is not crowded, and most chose ease.',
                     name: 'DLG′blog',
                     domain: 'https://www.daalin.top',

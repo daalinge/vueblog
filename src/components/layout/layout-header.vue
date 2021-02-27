@@ -2,7 +2,7 @@
     <div id="layout-header" :class="{'fixed':fixed,'hidden':hidden}" @click.stop="mobileShow=false">
         <div class="site-logo">
             <router-link to="/">
-                <img src="@/assets/site-logo.svg" alt="">
+                <img src="@/assets/images/avatar.jpg" alt="" style="border-radius: 50%;">
                 <p class="site-name">乘风破浪</p>
             </router-link>
         </div>

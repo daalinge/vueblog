@@ -5,17 +5,17 @@
                 <!--博主信息-->
                 <div class="focusinfo">
                     <!-- 头像 -->
-                    <div class="header-tou">
+                    <!-- <div class="header-tou">
                         <router-link to="/"><img :src="websiteInfo.avatar"></router-link>
-                    </div>
+                    </div> -->
                     <!-- 简介 -->
-                    <div class="header-info">
+                    <!-- <div class="header-info">
                         <p>{{websiteInfo.slogan}}</p>
-                    </div>
+                    </div> -->
                     <!-- 社交信息 -->
-                    <div class="top-social">
+                    <!-- <div class="top-social">
                         <div v-for="item in socials" :key="item.id" :title="item.title"><a :href="item.href" target="_blank" :style="{'color':item.color}"><i class="iconfont" :class="item.icon"></i></a></div>
-                    </div>
+                    </div> -->
                 </div>
                 <!--左右倾斜-->
                 <div class="slant-left"></div>
