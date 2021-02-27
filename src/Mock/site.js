@@ -8,10 +8,10 @@ export default [
             return {
                 code: 20000,
                 data: {
-                    avatar: 'https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4200474896,1957610758&fm=26&gp=0.jpg',
+                    avatar: 'https://shitu-query-gz.gz.bcebos.com/2021-02-27/19/02e771eb87872694?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2021-02-27T11%3A00%3A01Z%2F300%2Fhost%2F5b2d8a09210ccd457110edf76c22ce285cb4557490cb02302c147b9ed3d55741',
                     slogan: 'The way up is not crowded, and most chose ease.',
-                    name: 'FZY′blog',
-                    domain: 'https://www.fengziy.cn',
+                    name: 'DLG′blog',
+                    domain: 'https://www.daalin.top',
                     notice: '我一定要改掉遇到不会的问题时挠后脑勺的坏毛病',
                     desc: '一个It技术的探索者'
                 }

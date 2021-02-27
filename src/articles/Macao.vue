@@ -2,35 +2,49 @@
     <div class="articles">
         <banner></banner>
         <div class="site-content animate">
-            <!-- 文章目录 -->
-            <!-- <div id="article-menus">
-                <menu-tree :menus="menus" child-label="child"></menu-tree>
-            </div> -->
             <main class="site-main">
                 <article class="hentry">
                     <!-- 文章头部 -->
                     <header class="entry-header">
                         <!-- 标题输出 -->
-                        <h1 class="entry-title">前端</h1>
+                        <h1 class="entry-title">澳门风云</h1>
                         <hr>
                         <div class="breadcrumbs">
-                            <div id="crumbs">最后更新时间：2021年02月01日</div>
+                            <div id="crumbs">最后更新时间：2021年02月12日</div>
                         </div>
                     </header>
                     <!-- 正文输出 -->
                     <div class="entry-content">
                         <p>@[TOC]</p>
                         <h4 id="引言：">引言：</h4>
-                        <p>2020年8月10号，从郑州抵达到深圳！！！</p>
-                        <h4>始</h4>
-                        <p style="text-indent: 2em;"> </p>
-                      
+                        <p>2021年1月23号，从深圳抵达到珠海湾仔码头！！！</p>
                         <blockquote>
-                          
+                            <img src="../assets/images/aomen8.jpg" alt="">
                         </blockquote>
-                        <hr>
-                        
-                        <pre><code> 未完待续~~~</code></pre>
+                        <blockquote>
+                            <img src="../assets/images/aomen.jpg" alt="">
+                        </blockquote>
+                        <blockquote>
+                            <img src="../assets/images/aomen1.jpg" alt="">
+                        </blockquote>
+                        <blockquote>
+                            <img src="../assets/images/aomen2.jpg" alt="">
+                        </blockquote>
+                        <blockquote>
+                            <img src="../assets/images/aomen3.jpg" alt="">
+                        </blockquote>
+                        <blockquote>
+                            <img src="../assets/images/aomen4.jpg" alt="">
+                        </blockquote>
+                        <blockquote>
+                            <img src="../assets/images/aomen5.jpg" alt="">
+                        </blockquote>
+                        <blockquote>
+                            <img src="../assets/images/aomen6.jpg" alt="">
+                        </blockquote>
+                        <blockquote>
+                            <img src="../assets/images/aomen7.jpg" alt="">
+                        </blockquote>
                     </div>
                     <!-- 文章底部 -->
                     <section-title>
@@ -113,3 +127,4 @@
         }
     }
 </script>
+

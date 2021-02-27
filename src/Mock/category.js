@@ -10,12 +10,17 @@ export default [
                     {
                         id: 1,
                         title: 'ShenZhen',
-                        href: '/article/ShenZhen'
+                        href: '/article/shenzhen'
                     },
                     {
                         id: 2,
                         title: 'H5',
-                        href: '/article/H5',
+                        href: '/article/h5',
+                    },
+                    {
+                        id: 3,
+                        title: '澳门风云',
+                        href: '/article/macao',
                     },
                 ]
             }

@@ -67,7 +67,24 @@
                                 从大厦出来后，随着高德地图的导航来到了一个公交站牌，此时我才刚发现，我现在处在的位置是百度大厦，没有想到我现在的位置竟然是中国很牛逼的公司大厦下，上了车之后，我和张云鹏打电话说一下我今天的情况，他说我要的这个工资是刚刚好，作为一个专科生，而且还是应届生直接出来面试，能拿到这个薪资也是不错的，他让我再继续面试，看还有没有更好的结果，此时，我心里参杂着欣喜还有些不爽，我心里很是徘徊，一方面想着这个地方实在是太远，又一方面想着其他公司也不是好面试的，薪资基本都是这个价了，毕竟自己是刚出来，默默的从心里窜出三个字，随缘吧。走到中间换乘的时候，就突然偶遇到我室友也在等同一辆车回去，看着他面无表情，就感觉也不是太顺利，不过我们都是打着试着的心态去面试，没有成功，也不是太难受，心态问题还是挺重要的，一天天的即使没有成功，但我们也是积累着经验的，再一个就是不要灰心，说不定哪一天运气就来了，我把我今天的经历也给室友说了，也说了一些面试的技巧，在他们看来，我已经通过了这次的面试，他们感觉都挺好的， 但我实在不知道该说些什么，我还想再继续面试，在那个公司的时候，人事给我说过会会给我打电话，我也一直在等，希望是能先把这份offer拿到手，我还是接着继续面试其他公司，如果能成功的话，我再考虑考虑，如果你能成功的话，我就直接进这家公司，也是没有办法的，今天是周四，明天周五也有一家，也是在南山区，一样的感觉，面试只是经历，结果随天了。
                             </p>
                         </blockquote>
-                        <h4></h4>
+                        <h4>继续面试</h4>
+                        <blockquote>
+                            <p style="text-indent: 2em;">
+                                今天周五，老郭俺俩的面试都是在南山区，今天把姓王的也给叫过来了，玩上一天，顺便请教请教经验，上午又是坐了许久的公交车，先是直接到我面试的地方，南山什么什么云谷，搞的挺洋气的一样，没什么卵用，当然老郭的是在南山的科技园，都是下午的面试，吃完饭以后，我进去面试了，让我等了好久，说好的是一点半，愣是让我等了半个多小时，其实他们是两点上班，但不知道为什么让我一点半去面试，这不是扯淡了吗，真的是不想鸟他们公司，进去之后，有一个前台小姐姐，长得还挺好看，不一会，来了一个面试官，让我去会议室进行面试，令我没有想到的是他问我的问题还都挺另类的，是专门做h5动画的，但是我对于这方面，还真是不熟，关于h5的动画我做的确实不是太多，基本都是写一些实用性的项目，他们这公司完全就是给别人搞宣传，做一些广告的动画图，我不会，我承认我不会，我也不和他怼什么，我就默默的听他讲，谁知道他一讲就是半个多小时，听的我是真难受，第一次见这么徐吊的，不管了，我就这么听下去，有些话他说了等于是放屁一样，就不能直接入主题，到最后还是来了一句，你期待的薪资是多少，让我回去等通知，你他么的早一点说不完事了，等到最后还是等到的这一句话，我之前听你那么多的屁话有什么用，真的是浪费我感情，出来之后，这个姓王的就已经在楼下等了我好久，我也不管那么多了，俺俩先去找一个地方玩一会，等着老郭，毕竟我现在也是在等我昨天的那个offer，做了一辆公交车后，我们俩绕到了塘朗山下，准备在塘朗山下等着老郭，然后再一起玩，俺俩再路边等了好大一会，我也等的迫不及待，我给昨天的那个公司打电话问他一下什么时候发offer，我好去准备一下，当然这并不是我的目的，我的目的是我在这里到底有没有被录取，我打了电话确认了一下，说的是要准备给我打电话，看来是赶到一块去了，然后又问我许多的问题，然后就把电话挂了，然后就直接给我发来了一份offer到我的邮箱里，我仔细看了看offer，心里也是暗暗自喜，因为这是我人生中的第一份offer，我决定存一个档，就这样，我们在塘朗山下走了好大一会，才碰见老郭，当时我已经是累的不行，碰面之后，我们去了一趟图书馆，我也没有什么想看的，天生不爱看书，密密麻麻，字可多，可烦，然后我就拿了一本书假装看了一会，看了一会之后，感觉没有什么意思了，我们三个也准备出去了，再去其他的地方转一转，对面刚好有一个商场，我们上去逛了一逛，此时我感觉我已经是精疲力尽，我也不知道怎么回事，完后，我和老郭找到公交车坐车回去，今天是周五，回去之后好好的歇息一下，明天周六我还有一家面试。
+                            </p>
+                        </blockquote>
+                        <h4>继续面试2</h4>
+                        <blockquote>
+                            <p style="text-indent: 2em;">
+                                今天是周六，上午有一家面试，是在龙岗区，离的也有点距离，二话不说，坐上公交车直接就是出发，到了地方之后看了一下，他么的这地方也是有点荒凉，不知道这边是干嘛的，我没有管那么多，直接就进去了，进去之后更他么的让我吃惊，他么的这公司就3个人，还能不能再可怜点，而且面试的时候还是一次性两个面试官，除了这两个面试官之外，就只有一个人在上班了，这玩个屁啊，一上来就问我那么另类的问题，我他么一个前端的，让我那么懂数据库的语言，我直接说我不会，又能怎么着，还问我有没有公司录用我，有没有公司录用我管你们什么吊事，再一次的询问，不行就是不行，哪来的那么多的废话，终于我说了一些结尾的话，赶紧撤，一刻都不想待，况且我要的工资也不高，你们他么的还想要个资历深的，有资历深的也不去你们这样的公司，就能让人一下干死的那种，扯淡吧，迈起大步，直接走出去，出去之后，找个没人的地方尿了个尿，准备起步回去，此时，结束了我这次的所有的面试，其实在下周一还有一家公司，但我真的不想去了，决定就这一家了，深圳秒加，继续等回去的公交车，准备耍个几天然后去上班，今天已经是周六了，还有三天的时间，周三让我去入职，但我还有准备工作，要去办一个工商银行卡，还有毕业证复印件，还要去医院做一个入职体检，事情还真是挺多的。
+                            </p>
+                        </blockquote>
+                        <h4>面试结束</h4>
+                        <blockquote>
+                            <p style="text-indent: 2em;">
+                                回去之后，他们都在宿舍，此时，李德生还在赶来深圳的路上，他是到下午才能来到，在宿舍还是一直的玩，到了下午，李德生快到了，我下楼去接他，看他已经是精疲力尽了，我也是体会过他的那种感觉，我帮他拉着行李箱，上了楼，等他收拾收拾，然后下去一起去吃个饭，这次出去他还要买一点生活用品，所以我们决定去远一点的地方吃饭，走了很远，我们来到了一个小餐馆，随便的要了点面，吃完以后，他们想去附近的一个什么什么山，我感觉李德生都不带累的，手里还惦着一提纸，我还穿着一个拖鞋，然后我们就去上山了，走着不一会，我们到了山脚下，这是一个盘山公路，要绕着走很远才能走到山顶，走了一会就能听到各种生物的叫声，真的是很刺激，不知道是走了多久，走到了一个小溪的地方，这地方的人还是挺多的，
+                            </p>
+                        </blockquote>
                         <pre><code> 未完待续~~~</code></pre>
                     </div>
                     <!-- 文章底部 -->
@@ -98,6 +115,7 @@
     import Banner from '@/components/banner'
     import sectionTitle from '@/components/section-title'
     import menuTree from '@/components/menu-tree'
+    import './css/articles.less'
     export default {
         name: 'articles',
         data(){
@@ -150,181 +168,3 @@
         }
     }
 </script>
-<style scoped lang="less">
-    .site-content {
-        position: relative;
-        .site-main {
-            padding: 80px 0 0 0;
-        }
-    }
-    #article-menus{
-        position: sticky;
-        top: 0;
-        box-shadow: 0 2px 6px rgba(0, 0, 0, .1);
-        border-radius: 3px;
-        padding: 15px;
-        width: 300px;
-        transform: translateX(-120%) translateY(150px);
-        font-size: 14px;
-    }
-    article.hentry {
-        .entry-header {
-            .entry-title {
-                font-size: 23px;
-                font-weight: 600;
-                color: #737373;
-                margin: 0.67em 0;
-
-                &:before {
-                    content: "#";
-                    margin-right: 6px;
-                    color: #d82e16;
-                    font-size: 20px;
-                    font-weight: 600;
-                }
-            }
-
-            hr {
-                height: 1px;
-                border: 0;
-                background: #EFEFEF;
-                margin: 15px 0;
-            }
-
-            .breadcrumbs {
-                font-size: 14px;
-                color: #D2D2D2;
-                text-decoration: none;
-                margin-bottom: 30px;
-            }
-        }
-
-
-        footer.post-footer {
-            width: 100%;
-            padding: 20px 10px;
-            margin-top: 30px;
-            height: 65px;
-            position: relative;
-            i{
-                font-size: 18px;
-                margin-right: 5px;
-            }
-            .post-like {
-                float: right;
-                margin: 7px 0 0 20px;
-            }
-
-            .post-share {
-                float: right;
-                list-style: none;
-                margin-right: 20px;
-            }
-
-            .donate {
-                float: left;
-                line-height: 36px;
-                border-radius: 100%;
-                -webkit-border-radius: 100%;
-                -moz-border-radius: 100%;
-                border: 1px solid #2B2B2B;
-                &:hover{
-                    border: 1px solid goldenrod;
-                    span{
-                        color: goldenrod;
-                    }
-                }
-                span {
-                    color: #2B2B2B;
-                    padding: 10px;
-                    position: relative;
-                    cursor: pointer;
-                }
-
-                .donate_inner {
-                    display: none;
-                    margin: 0;
-                    list-style: none;
-                    position: absolute;
-                    left: 80px;
-                    top: -40px;
-                    background: #FFF;
-                    padding: 10px;
-                    border: 1px solid #ddd;
-                    box-shadow: 0 2px 6px rgba(0, 0, 0, .08);
-                    border-radius: 3px;
-                    &.show{
-                        display: block;
-                    }
-                    li {
-                        float: left;
-                    }
-
-                    img {
-                        width: 100px;
-                    }
-                    p {
-                        text-align: center;
-                        font-size: 15px;
-                        color: #D2D2D2;
-                        line-height: 1rem;
-                    }
-                }
-
-                .donate_inner:after, .donate_inner:before {
-                    content: "";
-                    position: absolute;
-                    left: 0;
-                    bottom: 45%;
-                    margin-left: -8px;
-                    border-top: 8px solid transparent;
-                    border-bottom: 8px solid transparent;
-                    border-right: 8px solid #fff;
-                }
-
-                .donate_inner:before {
-                    left: -1px;
-                    border-right: 8px solid #ddd;
-                }
-
-            }
-
-            .post-tags {
-                margin: 7px 0 0 20px;
-                float: left;
-                text-transform: uppercase;
-                a:hover{
-                    color: #ff6d6d;
-                }
-            }
-        }
-        .open-message {
-            margin: 50px 0;
-            position: relative;
-            background: #2B2B2B;
-            padding: 10px 30px;
-            border-radius: 3px;
-            font-size: 14px;
-            color: #fff;
-            &:after {
-                content: "";
-                border-left: 10px solid transparent;
-                border-right: 10px solid transparent;
-                border-bottom: 10px solid #2B2B2B;
-                position: absolute;
-                top: -8px;
-                left: 48%;
-            }
-            p {
-                margin: 10px 0;
-                overflow: hidden;
-                text-overflow: ellipsis;
-                white-space: nowrap;
-            }
-            a {
-                color: #A0DAD0;
-                padding: 0 5px;
-            }
-        }
-    }
-</style>

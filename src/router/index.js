@@ -37,16 +37,22 @@ const routes = [
     },
     // 以下是文章路由
     {
-        path: '/article/ShenZhen',
+        path: '/article/shenzhen',
         name: 'ShenZhen',
         component: () => import('../articles/ShenZhen'),
         meta: { title: '深圳'}
     },
     {
-        path: '/article/H5',
+        path: '/article/h5',
         name: 'H5',
         component: () => import('../articles/H5'),
         meta: { title: '大前端'}
+    },
+    {
+        path: '/article/macao',
+        name: '澳门',
+        component: () => import('../articles/Macao'),
+        meta: { title: '澳门风云'}
     }
 ]
 
